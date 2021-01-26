@@ -1,0 +1,7 @@
+.idea
+TP3-INFO605.iml
+# Datasource local storage ignored files
+/../../../../../../:\Users\OMAR\IdeaProjects\TP3-INFO605\.idea/dataSources/
+/dataSources.local.xml
+# Editor-based HTTP Client requests
+/httpRequests/
