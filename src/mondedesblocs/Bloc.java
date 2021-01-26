@@ -1,3 +1,4 @@
+package mondedesblocs;
 
 public class Bloc {
     private TailleBloc Taille;

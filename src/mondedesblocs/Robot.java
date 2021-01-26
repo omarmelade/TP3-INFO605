@@ -1,3 +1,4 @@
+package mondedesblocs;
 
 public class Robot {
     private Bloc blocTenu;
